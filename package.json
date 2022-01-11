@@ -9,11 +9,11 @@
     "homepage": "https://github.com/xavierha/localize-with-spreadsheet",
     "repository": {
         "type": "git",
-        "url": "git://github.com/xavierha/localize-with-spreadsheet.git"
+        "url": "https://github.com/xavierha/localize-with-spreadsheet.git"
     },
     "main": "index.js",
     "dependencies": {
-        "google-spreadsheets": "git://github.com/theoephraim/node-google-spreadsheets.git",
+        "google-spreadsheets": "https://github.com/theoephraim/node-google-spreadsheets.git",
         "q": "0.9.2",
         "mkpath": "0.1.0"
     },
